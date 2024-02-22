@@ -12145,4 +12145,13 @@ textarea.form-control-lg {
   color: #c28135;
 }
 
+#cont-head h2, #cont-head .h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+#cont-head p {
+  font-weight: 500;
+  color: rgb(116, 116, 116);
+}
+
 /*# sourceMappingURL=style.css.map */
