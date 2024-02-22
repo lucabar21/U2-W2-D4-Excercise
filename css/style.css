@@ -12154,4 +12154,10 @@ textarea.form-control-lg {
   color: rgb(116, 116, 116);
 }
 
+@media screen and (max-width: 768px) {
+  header .row {
+    flex-direction: column;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
