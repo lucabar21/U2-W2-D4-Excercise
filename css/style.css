@@ -12159,6 +12159,19 @@ textarea.form-control-lg {
   padding: 1rem 2rem;
 }
 
+footer {
+  background-color: #d1d1d1;
+  padding: 1.5rem;
+  color: #555555;
+}
+footer ul {
+  justify-content: space-evenly;
+}
+footer li {
+  list-style-type: none;
+  margin-right: 1rem;
+}
+
 @media screen and (max-width: 768px) {
   header .row {
     flex-direction: column;
