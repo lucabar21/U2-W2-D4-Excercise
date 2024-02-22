@@ -1,0 +1,35 @@
+@import "bootstrap_overrides";
+@import "fonts";
+
+#hero {
+  color: white;
+  h2 {
+    font-weight: 700;
+    font-size: 3rem;
+  }
+  P {
+    width: 80%;
+    font-weight: 300;
+    font-size: 1.3rem;
+  }
+  button {
+    font-weight: 600;
+  }
+}
+
+.headline-icons {
+  background-color: #ffeeda;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  i {
+    font-size: 1.5rem;
+    color: #c28135;
+  }
+}
+
+#cont-head {
+}
